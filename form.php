@@ -5,7 +5,8 @@
     <title>Input Form</title>
 </head>
 <body>
-    <h2>Enter Five Numbers</h2>
+
+    <h2>Enter 5 Numbers</h2>
     <form action="process.php" method="POST">
         <label for="a">Number A:</label>
         <input type="number" id="a" name="a" required><br><br>
